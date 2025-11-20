@@ -138,6 +138,11 @@ Screenshots and logs being generated
 
 Upload the video to Google Drive and provide a shareable link.
 
+Video : https://drive.google.com/file/d/12BHH3Kqj3oDGXDaRmdmv5oabB96-1yog/view?usp=sharing
+
+Github repo link: https://github.com/himasnhu018/Frugal_Testing-_SE
+
+
 Testing Scenarios Covered
 Test Case	Status
 Verify landing page	✔ Automated
